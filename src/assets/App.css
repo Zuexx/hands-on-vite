@@ -1,0 +1,7 @@
+  .container {
+    @apply flex min-h-screen min-w-full justify-center;
+  }
+  
+  .link {
+    @apply btn btn-secondary mx-1 z-[10000] relative mt-[10px];
+  }
